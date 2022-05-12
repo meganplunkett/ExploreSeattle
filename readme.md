@@ -1,5 +1,5 @@
 # Exploring Washington's Geography
-#### by Megan Plunkett
+by Megan Plunkett
 
 ## Project Overview
 The following URL links to a web map, which looks at the examined area of Seattle and surrounding King County using tile sets. We have a basic basemap, a second grayscale map, highlighting fire stations with points, a third basemap overlayed by these points, and a themed map.
